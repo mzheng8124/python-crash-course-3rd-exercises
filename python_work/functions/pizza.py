@@ -1,4 +1,6 @@
 # example of a function accepting as many arguments as need
+# known as arbitary arguments
+# uses '*' to start, must be placed last in parameter
 
 # create function
 def make_pizza(*toppings):
